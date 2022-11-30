@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-aluya
+- 👋 Hi, I’m @m-aluya. A seasoned backend developer lost in time.
 - 📫 How to reach me matt.aluya@gmail.com
 
 <!---
