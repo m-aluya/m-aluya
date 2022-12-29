@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-aluya. A seasoned backend developer lost in time.
+- 👋 Hi, I’m Matt. Lost in time & space, I wander the digital realm as a software developer. Solving problems is my passion.
 - 📫 How to reach me matt.aluya@gmail.com
 
 <!---
